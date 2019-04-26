@@ -1,0 +1,6 @@
+clone/ fork /download:
+https://github.com/supritag/InvestmentHelperBot
+Go to anaconda prompt 
+-aws configure
+-go to aws lex console for chatbot
+-go to aws athena console for database
